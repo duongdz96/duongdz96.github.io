@@ -407,6 +407,7 @@ p {
 	max-width: 1200px;
 	margin: 0 auto;
 	padding: 100px 20px;
+	background-color: bisque;
 }
 #about .col-left {
 	width: 250px;
